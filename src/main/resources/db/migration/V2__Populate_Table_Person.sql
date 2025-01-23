@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (3,'Guarabira sdfds - Paraíba - Brasil','Jardiel','Male','Carlos'),(5,'Guarabira - Paraíba - Brasil','Rodrigo','Male','Gomes'),(6,'Guarabira - Paraíba - Brasil','Lucas','Male','Rodrigues');
